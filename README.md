@@ -1,5 +1,7 @@
 # SI08 - Advanced Data Engineering Module
 
+> **Language Note:** This module will be conducted in English to accommodate exchange students participating in the program.
+
 ## Project Overview
 
 **TAPI Project:** Creation of a solution for an application using Natural Language for awareness of the preservation of natural means/resources
